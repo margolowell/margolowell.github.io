@@ -6,6 +6,8 @@
 ## Projects
 - [Customer Churn Analysis](https://github.com/margolowell/customer-churn-analysis)
 - [Traffic Crash Data Visualization (R)](https://github.com/margolowell/r-data-visualization)
+- [Data Management Project (SQL & Python)](https://github.com/margolowell/data-management-project)
+
 
 
 
