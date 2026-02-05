@@ -3,6 +3,10 @@
 
 [Resume](Margaret_Lowell_Resume.pdf)  
 [Transcript](Margaret_Lowell_Transcript.pdf)
+## Projects
+- [Customer Churn Analysis](https://github.com/margolowell/customer-churn-analysis)
+- [Traffic Crash Data Visualization (R)](https://github.com/margolowell/r-data-visualization)
+
 
 
 
